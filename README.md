@@ -1,8 +1,11 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Daeun's%20Github&fontSize=90)
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=daeunblue)](https://solved.ac/daeunblue)
+<!-- <div align="center"> -->
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/v2/api/generate_badge?boj=daeunblue)](https://solved.ac/daeunblue) -->
+<div align="center">
+	
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Daeun's%20Github&fontSize=80)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daeunblue)](https://solved.ac/daeunblue)
 
 <div align="center">
   <p>BackEnd</p>
